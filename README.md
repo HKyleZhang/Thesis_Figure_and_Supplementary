@@ -22,7 +22,7 @@ Link
 
 ----
 
-### List of figures
+## List of figures
 
 #### Kappa
 
