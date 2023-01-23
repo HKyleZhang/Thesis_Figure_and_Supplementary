@@ -19,8 +19,6 @@ Link
 + [Paper V](#paper-v)
 
 </br>
-</br>
-
 
 ## List of figures
 
@@ -48,10 +46,13 @@ __17__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/bl
 __18__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/0.Kappa/Figure/Figure_18.jpg) | Significance values of single SNPs along the different chromosomes from a GWAS analysis with sex. Solid red line delimits the top 10 most significant SNPs and dashed red line delimits the top 100 most significant SNPs. “Unplaced” groups the data points on the scaffolds that were not assigned to chromosomes.
 __19__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/0.Kappa/Figure/Figure_19.png) | Comparing FST and significance of association with sex from GWAS for the top 100 SNPs in respective analyses, with the SNPs exclusively identified in FST-based approach (yellow), exclusively identified in GWAS approach (brown), the SNPs identified in both FST-based and GWAS approaches (red).
 
+</br>
 
 #### Paper I
 
-Paper I has been published. Please cite:
+Paper I has been published. Link to the publication: [https://doi.org/10.1111/jeb.14068](https://doi.org/10.1111/jeb.14068)
+
+Please cite:
 
 > Zhang, H., Sigeman, H. and Hansson, B., 2022. Assessment of phylogenetic approaches to study the timing of recombination cessation on sex chromosomes. Journal of evolutionary biology, 35(12), pp.1721-1733.
 
@@ -64,6 +65,7 @@ __4__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blo
 __5__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_05.png) | ELW values for each hypothetical topology when using the single-W dataset (red heatmap) and the multi-W dataset (blue heatmap), respectively, for genes on (a) the ancestral part and (b) the added part of the neo-sex chromosome.
 __6__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_06.png) | (a) Posterior medians and 95% HPDs, and (b) the width of 95% HPD, for BEAST analyses of the 1-, 3-, 6-, and 12-outgroup datasets, respectively. Colors indicate the genes' location on the ancestral (turquoise) or added (pink) part of the neo-sex chromosome. In (a), Spearman's rank correlation coefficients and their significance levels are given (\*\*\*: p < 0.001). In (b), overlaid on the box plots (grey), each gene is connected with lines between datasets, and significant values from post hoc analyses with Wilcoxon signed-rank tests after correction for multiple comparisons are given as followed: n.s.: not significant; \*\*: p < 0.01; \*\*\*: p < 0.001.
 
+</br>
 
 #### Paper II
 Figure|Link|Description
@@ -77,8 +79,16 @@ __6__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blo
 __S1__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_S01.png) | IGV screen shot showing 50 bp surrounding the DNM at 55937724 bp of Contig 1 in offspring 253. The DNM can be traced back to H5-17 with another upstream SNP.
 __S2__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_S02.png) | IGV screen shot showing 50 bp surrounding the DNM at 36535859 bp of Contig 0 in offspring 255. No additional SNP can facilitate infering the parent-of-origin.
 
+</br>
 
 #### Paper III
+
+Paper III has been deposited on _bioRxiv_. Link to the paper: [https://doi.org/10.1101/2022.12.21.521365](https://doi.org/10.1101/2022.12.21.521365)
+
+Please cite:
+
+> Zhang, H. and Hansson, B., 2022. RecView: an interactive R application for viewing and locating recombination positions using pedigree data. bioRxiv, pp.2022-12.
+
 Figure|Link|Description
 :--:|:-:|:--------------------
 __1__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/3.Paper-III_RecView/Figure/Figure_01.png) | The pedigree dataset required for analysing recombination locations with RecView. Grandparents are labelled A, B, C and D, and parents AB and CD. The analysis is conducted independently for each offspring.
@@ -93,6 +103,7 @@ __9__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blo
 __10__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/3.Paper-III_RecView/Figure/Figure_10.png) | Visualization of the result from the cumulative continuity score (CCS) algorithm to locate putative recombination positions. Shown are the CCS for the maternal and maternal chromosomes along the Chromosome 1 in offspring ID-256 in the full dataset (a) and the downsampled dataset (b). Increasing slopes indicate continuous alleles with inferred GoO from the paternal grandfather (upper panel) or maternal grandfather (lower panel), while decreasing slopes indicate the origin of the paternal grandmother (upper panel) or maternal grandmother (lower panel).
 __11__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/3.Paper-III_RecView/Figure/Figure_11.png) | The local density of informative SNPs along chromosome 1 in offspring ID-256 in the full dataset (a) and downsampled dataset (b). The red diamonds show the putative recombination positions from the cumulative continuity score algorithm.
 
+</br>
 
 #### Paper IV
 Figure|Link|Description
@@ -103,6 +114,7 @@ __3__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blo
 __4__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/4.Paper-IV_Recombination/Figure/Figure_04.png) | (A) The distribution of male, female and sex-averaged recombination rates on autosomal arms. (B) The association between male (green rectangles), female (yellow circles) or the sex-averaged (grey diamonds) recombination rates and the size of autosomal arms. 
 __5__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/4.Paper-IV_Recombination/Figure/Figure_05.png) | The bias of COs towards the telomeric ends of chromosomes. (A) The location of CO positions of paternal and maternal origins on each chromosome arm. (B) The physical distance of CO positions from the telomeric end of autosomal arms. (C) The proportional distance of CO positions from the telomeric end of autosomal arms. Grey bars indicate the sizes of the autosomal arms. The colouration and shape of points indicate paternal (green squares) and maternal (yellow circles) CO events.
 
+</br>
 
 #### Paper V
 Figure|Link|Description
