@@ -1,14 +1,24 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## Repository for the figures and supplementary for PhD thesis
+## Catalogues of figures and supplementary of my PhD thesis
 
 ----
 
-### Citation:
+Please cite:
 
 > Zhang H. 2023. Genomic studies of sex differences: On mutations, recombination, and sexual antagonism in songbirds. Lund: Lund University (Media-Tryck). 226 p.
 
-Links to the thesis:
+Link
+
+----
+
+## Table of Contents
++ [Kappa](#kappa)
++ [Paper I](#paper-i)
++ [Paper II](#paper-ii)
+
+</br>
+</br>
 
 ----
 
@@ -37,3 +47,33 @@ __16__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/bl
 __17__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/0.Kappa/Figure/Figure_17.jpg) | FST values (A) and weighted mean FST values in a 10-kb window (B) on different chromosomes. Solid red line delimits the top 10 and dashed red line delimits the top 100 SNPs or windows with highest mean FST. “Unplaced” groups the data points on the scaffolds that were not assigned to chromosomes.
 __18__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/0.Kappa/Figure/Figure_18.jpg) | Significance values of single SNPs along the different chromosomes from a GWAS analysis with sex. Solid red line delimits the top 10 most significant SNPs and dashed red line delimits the top 100 most significant SNPs. “Unplaced” groups the data points on the scaffolds that were not assigned to chromosomes.
 __19__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/0.Kappa/Figure/Figure_19.png) | Comparing FST and significance of association with sex from GWAS for the top 100 SNPs in respective analyses, with the SNPs exclusively identified in FST-based approach (yellow), exclusively identified in GWAS approach (brown), the SNPs identified in both FST-based and GWAS approaches (red).
+
+
+#### Paper I
+
+Paper I has been published. Please cite:
+
+> Zhang, H., Sigeman, H. and Hansson, B., 2022. Assessment of phylogenetic approaches to study the timing of recombination cessation on sex chromosomes. Journal of evolutionary biology, 35(12), pp.1721-1733.
+
+Figure|Link|Description
+:--:|:-:|:--------------------
+__1__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_01.png) | (a) Reference species topology used in the ELW and BEAST analyses. (b) Species included in the analyses of how lowering the number of species affected the tRC estimates in the BEAST analysis.
+__2__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_02.png) | Examples of hypothetical topologies of Z and W gametologs under different recombination cessation scenarios when only including the _A. arundinaceus_ W gametolog (a–c; the single-W dataset) or when including W gametologs of all six Sylvioidea species (d–f; the multi-W dataset). (a) Hypothetical topology no. 2 indicating recombination cessation before _A. arundinaceus_ and _A. stentoreus_ diverged, but after the split of these two species and _A. palustris_; (b) hypothetical topology no. 4 indicating recombination cessation before the speciation of _I. opaca_ and after _L. luscinioides_; (c) hypothetical topology no. 9 indicating recombination cessation earlier than the formation of Sylvioidea, before the speciation of _L. coronata_ and after _M. undulatus_; (d) hypothetical topology no. 1 indicating continuation of recombination after speciation of each Sylvioidea species; (e) hypothetical topology no. 5 indicating recombination cessation before speciation of _L. luscinioides_ and after _P. biarmicus_; (f) hypothetical topology no. 11 indicating recombination cessation before _G. gallus_ and after _D. novaehollandiae_ speciation.
+__3__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_03.png) | Estimates of tRC across 51 neo-sex chromosome genes from (a) the dS approach, (b) the MLCT approach, (c) the ELW approach, and (d) the BEAST approach. Genes were ordered according to the physical positions on A. arundinaceus neo-Z, and included 22 genes from the ancestral part and 29 genes on the added part (Sigeman _et al._, 2021). Colors correspond to clusters of a K-means clustering analysis (k = 2), with brown indicating Cluster 1 and blue Cluster 2. The color gradient (heatmap) in the ELW approach indicates the ELW values for each hypothetical topology. The two horizontal lines mark the origin of Neognathae (green) and Sylvioidea (red).
+__4__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_04.png) | Relationship between estimates of tRC of the BEAST and ELW approaches plotted on a convertible scale corresponding to the posterior median and 95% HPD for the BEAST approach and the highest ELW-value topology and topology range of 95% accumulated ELW values for the ELW approach. Genes are colored according to their physical position on the ancestral (turquoise) or added (pink) part of the neo-sex chromosome of A. arundinaceus. The tRC estimates of the ELW and BEAST approaches were significantly correlated (Spearman's rank test: ρ = 0.952; ***: p < 0.001). The scale gives the conversion of the tRC estimates and the corresponding phylogenetic positions on the reference species topology. The timings for the origin of Neognathae (green) and Sylvioidea (red) are marked with dashed lines.
+__5__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_05.png) | ELW values for each hypothetical topology when using the single-W dataset (red heatmap) and the multi-W dataset (blue heatmap), respectively, for genes on (a) the ancestral part and (b) the added part of the neo-sex chromosome.
+__6__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/1.Paper-I_tRC/Figure/Figure_06.png) | (a) Posterior medians and 95% HPDs, and (b) the width of 95% HPD, for BEAST analyses of the 1-, 3-, 6-, and 12-outgroup datasets, respectively. Colors indicate the genes' location on the ancestral (turquoise) or added (pink) part of the neo-sex chromosome. In (a), Spearman's rank correlation coefficients and their significance levels are given (\*\*\*: p < 0.001). In (b), overlaid on the box plots (grey), each gene is connected with lines between datasets, and significant values from post hoc analyses with Wilcoxon signed-rank tests after correction for multiple comparisons are given as followed: n.s.: not significant; \*\*: p < 0.01; \*\*\*: p < 0.001.
+
+
+#### Paper II
+Figure|Link|Description
+:--:|:-:|:--------------------
+__1__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_01.png) | Mutation rates (µ) of 13 mammals, one fish and one bird estimated with pedigree-based approaches. Details are given in Table S1.
+__2__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_02.png) | The three-generation pedigree of great reed warblers (Acrocephalus arundinaceus). Shown are generation (F0, F1, and F2), individual code (e.g., H7-38) and sex (square: male; circle: female).
+__3__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_03.png) | Histogram of the number of F2 offspring inheriting each DNM detected in F1 parents (n = 18 DNMs). Note that a germline mutation detected in an F1 parent is expected to be transmitted with a probablility of 0.5 (_i.e._, it is expected to occur on average in 3 of the 6 offspring), whereas a somatic mutation is not expected to be transmitted to any offspring. 
+__4__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_04.png) | (A) Relationship between the number of DNMs and the size of the chromosomes. (B) Physical chromosomal positions, and (C) relative chromosomal positions, of the DNMs. (D) Mutation types for DNMs on CpG sites (red) or non-CpG sites (grey) show normalised frequencies with the abundance of each trinucleotide type (3-mer) in the genome. Note that 3-mers without DNMs are not shown.
+__5__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_05.png) | Parent-of-origin for the DNMs.
+__6__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_06.png) | Demographic history of the great reed warbler of western (Swedish, blue) and eastern (Turkish, red) populations between 1 × 10^4 and 1 × 10^6 years BP, showing that both populations experienced a drastic reduction in Ne from 400,000 years before present (BP), followed by a steady period with similar Ne for the populations from 200,000 years BP, over the start of the LGP (approximately 100,000 years BP), to approximately 50,000 years BP. After approximately 50,000 years BP, the Ne trajectories of the two populations start to deviate with the eastern population showing a steady increase, while the western population remained at lower levels. Around 20,000 years BP, the Ne trajectory of the western population showed an increase in size and then a decrease after approximately 15,000 years BP. (A,B) Thick lines represent MSMC run on 4-individual set-up for each population, while (A) thin lines with symbols represent the runs for each individual, and (B) thin lines without symbols represent the runs of 100 bootstrapped datasets. All Ne trajectories were scaled to real time using a generation time of 2 years and the corrected autosomal mutation rate estimate from this study (7.16 × 10^-9 mutations per site per generation). Shaded area indicates the LGP. 
+__S1__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_S01.png) | IGV screen shot showing 50 bp surrounding the DNM at 55937724 bp of Contig 1 in offspring 253. The DNM can be traced back to H5-17 with another upstream SNP.
+__S2__ | [Link](https://github.com/HKyleZhang/Thesis_Figure_and_Supplementary/blob/main/2.Paper-II_DNMs/Figure/Figure_S02.png) | IGV screen shot showing 50 bp surrounding the DNM at 36535859 bp of Contig 0 in offspring 255. No additional SNP can facilitate infering the parent-of-origin.
+
