@@ -2,7 +2,6 @@
 
 # Catalogues of figures and supplementary of my PhD thesis
 
-----
 
 Please cite:
 
@@ -10,7 +9,6 @@ Please cite:
 
 Link
 
-----
 
 ## Table of Contents
 + [Kappa](#kappa)
@@ -20,7 +18,6 @@ Link
 </br>
 </br>
 
-----
 
 ## List of figures
 
