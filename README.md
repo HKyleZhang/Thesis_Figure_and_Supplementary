@@ -4,11 +4,11 @@
 
 </br>
 
+Link to the thesis: [https://portal.research.lu.se/en/publications/genomic-studies-of-sex-differences-on-mutations-recombination-and](https://portal.research.lu.se/en/publications/genomic-studies-of-sex-differences-on-mutations-recombination-and)
+
 Please cite:
 
 > Zhang H. 2023. Genomic studies of sex differences: On mutations, recombination, and sexual antagonism in songbirds. Lund: Lund University (Media-Tryck). 226 p.
-
-Link
 
 </br>
 
