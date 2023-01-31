@@ -4,7 +4,7 @@
 
 </br>
 
-Link to the thesis: [https://portal.research.lu.se/en/publications/genomic-studies-of-sex-differences-on-mutations-recombination-and](https://portal.research.lu.se/en/publications/genomic-studies-of-sex-differences-on-mutations-recombination-and)
+Link to the thesis: [https://www.lu.se/lup/publication/649d00c5-d827-4f5b-95b9-58bb379e811b](https://www.lu.se/lup/publication/649d00c5-d827-4f5b-95b9-58bb379e811b)
 
 Please cite:
 
